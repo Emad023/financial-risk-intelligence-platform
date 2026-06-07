@@ -453,6 +453,9 @@ financial-risk-intelligence/
 │
 ├── requirements.txt
 │
+│
+├── LICENSE
+│
 ├── .env
 │
 ├── .gitignore
